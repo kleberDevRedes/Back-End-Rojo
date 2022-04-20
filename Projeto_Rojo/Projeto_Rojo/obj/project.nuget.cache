@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kgirLfWo2kvnrtHAiRXR1b//stEPmHLm/5xmgOVh9/m642hPupsRWjr8SFJhQtn17KZdCfDH35wcoh3bifl1CQ==",
+  "dgSpecHash": "UI40wGk4Lj25zPFVeBHvj3ZTy2cpvzaiXKuz2JHl5m1fiwEpJ5HnunIkCM9d0nBoSONEXbIRX6miuwGpX1xE5A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\52518284893.INFOSCS\\Desktop\\Projeto-Rojo\\Back-End\\Projeto_Rojo\\Projeto_Rojo\\Projeto_Rojo.csproj",
+  "projectFilePath": "C:\\Users\\52518284893.INFOSCS\\Desktop\\Back-End\\Projeto_Rojo\\Projeto_Rojo\\Projeto_Rojo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\52518284893.INFOSCS\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\52518284893.INFOSCS\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\5.0.14\\microsoft.aspnetcore.authentication.jwtbearer.5.0.14.nupkg.sha512",

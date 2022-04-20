@@ -7549,11 +7549,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\52518284893.INFOSCS\\Desktop\\Projeto-Rojo\\Back-End\\Projeto_Rojo\\Projeto_Rojo\\Projeto_Rojo.csproj",
+      "projectUniqueName": "C:\\Users\\52518284893.INFOSCS\\Desktop\\Back-End\\Projeto_Rojo\\Projeto_Rojo\\Projeto_Rojo.csproj",
       "projectName": "Projeto_Rojo",
-      "projectPath": "C:\\Users\\52518284893.INFOSCS\\Desktop\\Projeto-Rojo\\Back-End\\Projeto_Rojo\\Projeto_Rojo\\Projeto_Rojo.csproj",
+      "projectPath": "C:\\Users\\52518284893.INFOSCS\\Desktop\\Back-End\\Projeto_Rojo\\Projeto_Rojo\\Projeto_Rojo.csproj",
       "packagesPath": "C:\\Users\\52518284893.INFOSCS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\52518284893.INFOSCS\\Desktop\\Projeto-Rojo\\Back-End\\Projeto_Rojo\\Projeto_Rojo\\obj\\",
+      "outputPath": "C:\\Users\\52518284893.INFOSCS\\Desktop\\Back-End\\Projeto_Rojo\\Projeto_Rojo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\52518284893.INFOSCS\\AppData\\Roaming\\NuGet\\NuGet.Config",
