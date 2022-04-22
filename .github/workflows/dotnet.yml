@@ -20,4 +20,4 @@ jobs:
     - name: change directory
       run: cd /git/projeto; dotnet publish -o /var/www/webapp
     - name: Test
-      run: dotnet test --no-build --verbosity normal
+      run: cd /git/projeto; dotnet test --no-build --verbosity normal
