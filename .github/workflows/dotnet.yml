@@ -18,6 +18,6 @@ jobs:
       with:
         dotnet-version: 5.0.x
     - name: change directory
-      run: sudo cd /git/Back-End-Rojo/Projeto_Rojo/Projeto_Rojo; dotnet publish -o /var/www/webapp
+      run: cd /git/projeto; dotnet publish -o /var/www/webapp
     - name: Test
       run: dotnet test --no-build --verbosity normal
