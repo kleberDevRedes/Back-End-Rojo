@@ -17,6 +17,8 @@ jobs:
       uses: actions/setup-dotnet@v2
       with:
         dotnet-version: 5.0.x
+    - name: change directory
+      run: cd /git/Back-End-Rojo/Projeto_Rojo/Projeto_Rojo
     - name: publish
       run: dotnet publish -o /var/www/webapp
     - name: Test
